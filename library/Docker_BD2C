@@ -1,0 +1,6 @@
+echo "# othy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/othmanenadafi/othy.git
+git push -u origin master
